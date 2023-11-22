@@ -1,2 +1,2 @@
-# Regex-da-Trex
+# Regex-da-T-rex
 Regex Tutorial
