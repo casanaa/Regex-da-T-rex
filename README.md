@@ -50,3 +50,5 @@ https://github.com/casanaa
 
 https://gist.github.com/casanaa/097508231d31786fff8c10f085dc736b 
 
+![image](https://github.com/casanaa/Regex-da-T-rex/assets/133182324/701aad55-785d-4097-98df-86490be08016)
+
